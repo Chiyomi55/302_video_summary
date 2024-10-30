@@ -1,0 +1,87 @@
+{
+  "header": {
+    "description": "Supports links to Youtube, Bilibili, Douyin, Tiktok and mp3 file formats",
+    "no_include_valid_url": "Please enter a valid video link.",
+    "or": "or",
+    "start_button": "Start",
+    "start_button_loading": "Processing",
+    "title": "One-click summary of audio and video content",
+    "upload_button": "Select local file",
+    "upload_failed": "File upload failed",
+    "url_input_placeholder": "Enter audio and video links"
+  },
+  "history": {
+    "removed": "Delete successfully.",
+    "restored": "Data has been restored."
+  },
+  "main": {
+    "ai": {
+      "action_description": "AI Q&A requires a detailed summary first, click the button below to go.",
+      "action_text": "Go to",
+      "action_title": "Unavailable",
+      "clear_chat": "Clear chat history",
+      "no_ai_content": "Please enter the video link first, then proceed with AI Q&A."
+    },
+    "ai_question": "AI Q&A",
+    "brief": {
+      "action_description": "Click to generate a brief summary.",
+      "action_text": "Generate summary",
+      "action_title": "Brief summary",
+      "brief_summary": "Brief Summary",
+      "empty_description": "Please restart or try a different video.",
+      "empty_title": "The video information is incomplete.",
+      "generate_error": "Failed to generate a brief summary, please try again later.",
+      "generate_success": "Successfully generated a brief summary.",
+      "loading": "Thinking",
+      "loading_description": "Please do not leave the current page! A brief summary is being generated, please wait patiently.",
+      "mind_map": "Mind Map",
+      "no_brief_content": "Please enter the video link first, then view the brief summary."
+    },
+    "brief_summary": "Brief summary",
+    "detail": {
+      "action_description": "Click to generate a detailed summary.",
+      "action_text": "Generate summary",
+      "action_title": "Detailed Summary",
+      "detail_summary": "Detailed Summary",
+      "empty_description": "Please restart or try a different video.",
+      "empty_title": "The video information is incomplete.",
+      "error_generate_detail": "Failed to generate detailed summary, please try again later.",
+      "loading": "Thinking",
+      "loading_description": "Please do not leave the current page! A detailed summary is being generated, please wait patiently.",
+      "mind_map": "Mind Map",
+      "success_generate_detail": "Detailed summary generation successful."
+    },
+    "detailed": {
+      "no_detailed_content": "Please enter the video link first, then view the detailed summary."
+    },
+    "detailed_summary": "Detailed summary",
+    "subtitles": {
+      "download_subtitle": "Download subtitles",
+      "no_subtitles_content": "Please enter the video link first, then view the subtitles.",
+      "original": "Original subtitles",
+      "reTranslate_subtitle": "Re-translate",
+      "search_placeholder": "Search subtitles",
+      "select_language_error": "Please select a language first.",
+      "select_placeholder": "Subtitle format",
+      "translate_subtitle": "Translate subtitles",
+      "translate_subtitle_error": "Translation failed, please try again later.",
+      "translate_subtitle_placeholder": "Select subtitle language",
+      "translate_subtitle_success": "Translation successful, subtitles have been updated.",
+      "translating": "Translating"
+    },
+    "video": {
+      "no_video_content": "Please enter the video link first, and then view the video."
+    },
+    "view_subtitles": "View subtitles",
+    "view_video": "watch video"
+  },
+  "submit": {
+    "get_real_url_failed": "Unable to obtain video address",
+    "invalid_youtube_url": "Invalid YouTube link, unable to obtain video id.",
+    "save_failed": "Unable to save data, please check if your browser environment is functioning normally.",
+    "success": "The video-related data has been fully loaded, please start using it!",
+    "transcript_failed": "Failed to fetch video information",
+    "transcript_success": "Successfully retrieved video information, waiting for translation.",
+    "translate_failed": "Translation failed"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "header": {
+    "description": "YouTube、Bilibili、抖音（TikTok）およびmp3ファイルフォーマットのリンクをサポートしています",
+    "no_include_valid_url": "有効な動画リンクを入力してください",
+    "or": "または",
+    "start_button": "スタート",
+    "start_button_loading": "処理中",
+    "title": "音声・動画の内容をワンクリックでサマリー",
+    "upload_button": "ローカルファイルを選択",
+    "upload_failed": "ファイルアップロード失敗",
+    "url_input_placeholder": "音声または動画リンクを入力"
+  },
+  "history": {
+    "removed": "削除成功",
+    "restored": "データが復元されました"
+  },
+  "main": {
+    "ai": {
+      "action_description": "AIの質問にはまず詳細なサマリーが必要です。下のボタンをクリックして移動してください",
+      "action_text": "簡潔なサマリーを生成するにはクリック",
+      "action_title": "使用できません",
+      "clear_chat": "チャット履歴をクリア",
+      "no_ai_content": "動画リンクを入力してからAI質問を行ってください"
+    },
+    "ai_question": "AI質問",
+    "brief": {
+      "action_description": "簡潔なサマリーを生成するにはクリック",
+      "action_text": "要約を生成する",
+      "action_title": "簡潔なサマリー",
+      "brief_summary": "簡潔なサマリー",
+      "empty_description": "再スタートするか、別の動画を試してください",
+      "empty_title": "動画情報が不完全です",
+      "generate_error": "簡潔なサマリー生成に失敗しました。しばらくしてから再試行してください",
+      "generate_success": "簡潔なサマリー生成に成功しました",
+      "loading": "思考中",
+      "loading_description": "現在のページから離れないでください！短いサマリーを生成中です、お待ちください。",
+      "mind_map": "マインドマップ",
+      "no_brief_content": "ページを離れないでください！簡潔なサマリーを生成中ですので、しばらくお待ちください"
+    },
+    "brief_summary": "簡潔なサマリー",
+    "detail": {
+      "action_description": "詳細なサマリーを生成するにはクリック",
+      "action_text": "サマリーを生成",
+      "action_title": "詳細なサマリー",
+      "detail_summary": "詳細なサマリー",
+      "empty_description": "再スタートするか、別の動画を試してください",
+      "empty_title": "動画情報が不完全です",
+      "error_generate_detail": "詳細なサマリー生成に失敗しました。しばらくしてから再試行してください",
+      "loading": "思考中",
+      "loading_description": "ページを離れないでください！詳細なサマリーを生成中ですので、しばらくお待ちください",
+      "mind_map": "マインドマップ",
+      "success_generate_detail": "詳細なサマリー生成に成功しました"
+
+    },
+    "detailed": {
+     "no_detailed_content": "動画リンクを入力してから詳細なサマリーを表示してください"
+    },
+    "detailed_summary": "詳細なサマリー",
+    "subtitles": {
+      "original": "原則的な字幕",
+      "download_subtitle": "字幕をダウンロード",
+      "no_subtitles_content": "まずビデオリンクを入力してから、字幕を確認してください。",
+      "reTranslate_subtitle": "再翻訳",
+      "search_placeholder": "字幕検索",
+      "select_language_error": "まず言語を選択してください",
+      "select_placeholder": "字幕フォーマット",
+      "translate_subtitle": "字幕翻訳",
+      "translate_subtitle_error": "翻訳に失敗しました。しばらくしてから再試行してください",
+      "translate_subtitle_placeholder": "字幕言語を選択",
+      "translate_subtitle_success": "翻訳成功、字幕が更新されました",
+      "translating": "翻訳中"
+    },
+    "video": {
+      "no_video_content": "動画リンクを入力してから動画を表示してください"
+    },
+    "view_subtitles": "字幕を表示",
+    "view_video": "動画を表示"
+  },
+  "submit": {
+    "invalid_youtube_url": "無効なYouTubeリンク、ビデオIDを取得できません",
+    "get_real_url_failed": "動画URLを取得できません",
+    "save_failed": "データを保存できません。ブラウザ環境を確認してください",
+    "success": "動画関連データが読み込み完了しました。利用を開始してください！",
+    "transcript_failed": "動画情報の取得に失敗しました",
+    "transcript_success": "動画情報取得に成功しました。翻訳を待機しています",
+    "translate_failed": "翻訳に失敗しました"
+  }
+}

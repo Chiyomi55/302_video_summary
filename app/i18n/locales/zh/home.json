@@ -1,0 +1,87 @@
+{
+  "header": {
+    "description": "支持Youtube、Bilibili、抖音、Tiktok以及mp3文件格式的链接",
+    "no_include_valid_url": "请输入有效的视频链接",
+    "or": "或",
+    "start_button": "开始",
+    "start_button_loading": "处理中",
+    "title": "音视频内容一键总结",
+    "upload_button": "选择本地文件",
+    "upload_failed": "文件上传失败",
+    "url_input_placeholder": "输入音视频链接"
+  },
+  "history": {
+    "removed": "删除成功",
+    "restored": "数据已恢复"
+  },
+  "main": {
+    "ai": {
+      "action_description": "AI问答需要先进行详细总结，点击下方按钮前往",
+      "action_text": "前往",
+      "action_title": "无法使用",
+      "clear_chat": "清空聊天记录",
+      "no_ai_content": "请先输入视频链接，再进行AI问答"
+    },
+    "ai_question": "AI问答",
+    "brief": {
+      "action_description": "点击生成简短总结",
+      "action_text": "生成总结",
+      "action_title": "简短总结",
+      "brief_summary": "简短总结",
+      "empty_description": "请重新开始或换一个视频试试'",
+      "empty_title": "视频信息不完整",
+      "generate_error": "生成简短总结失败，请稍后再试",
+      "generate_success": "生成简短总结成功",
+      "loading": "思考中",
+      "loading_description": "请不要离开当前页面！正在生成简短总结，请耐心等待",
+      "mind_map": "思维导图",
+      "no_brief_content": "请先输入视频链接，再查看简短总结"
+    },
+    "brief_summary": "简短总结",
+    "detail": {
+      "action_description": "点击生成详细总结",
+      "action_text": "生成总结",
+      "action_title": "详细总结",
+      "detail_summary": "详细总结",
+      "empty_description": "请重新开始或换一个视频试试'",
+      "empty_title": "视频信息不完整",
+      "error_generate_detail": "生成详细总结失败，请稍后再试",
+      "loading": "思考中",
+      "loading_description": "请不要离开当前页面！正在生成详细总结，请耐心等待",
+      "mind_map": "思维导图",
+      "success_generate_detail": "生成详细总结成功"
+    },
+    "detailed": {
+      "no_detailed_content": "请先输入视频链接，再查看详细总结"
+    },
+    "detailed_summary": "详细总结",
+    "subtitles": {
+      "download_subtitle": "下载字幕",
+      "no_subtitles_content": "请先输入视频链接，再查看字幕",
+      "original": "原始字幕",
+      "reTranslate_subtitle": "重新翻译",
+      "search_placeholder": "搜索字幕",
+      "select_language_error": "请先选择语言",
+      "select_placeholder": "字幕格式",
+      "translate_subtitle": "翻译字幕",
+      "translate_subtitle_error": "翻译失败，请稍后再试",
+      "translate_subtitle_placeholder": "选择字幕语言",
+      "translate_subtitle_success": "翻译成功，字幕已更新",
+      "translating": "翻译中"
+    },
+    "video": {
+      "no_video_content": "请先输入视频链接，再查看视频"
+    },
+    "view_subtitles": "查看字幕",
+    "view_video": "查看视频"
+  },
+  "submit": {
+    "get_real_url_failed": "无法获取视频地址",
+    "invalid_youtube_url": "无效的youtube链接，无法获取视频id",
+    "save_failed": "无法保存数据，请检查你的浏览器环境是否正常",
+    "success": "视频相关数据已加载完成，请开始使用吧！",
+    "transcript_failed": "获取视频信息失败",
+    "transcript_success": "获取视频信息成功，等待翻译",
+    "translate_failed": "翻译失败"
+  }
+}

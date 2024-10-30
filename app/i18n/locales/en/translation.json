@@ -1,0 +1,19 @@
+{
+  "errors": {
+    "-10001": "Missing 302 API private key",
+    "-10002": "This tool has been disabled/deleted. For more information, please visit <Gw>302.AI</Gw>",
+    "-10003": "Network error, please try again later",
+    "-10004": "Insufficient account balance, create your own tool, for more information, please visit <Gw>302.AI</Gw>",
+    "-10005": "Account credentials expired, please re-login",
+    "-10006": "The total account limit has reached, for more information, please visit <Gw>302.AI</Gw>",
+    "-10007": "The daily account limit has reached, for more information, please visit <Gw>302.AI</Gw>",
+    "-10008": "No channels are currently available, for more information, please visit <Gw>302.AI</Gw>",
+    "-10009": "The current API function is not supported, for more information, please visit <Gw>302.AI</Gw>",
+    "-10010": "Resource not found, for details please view <Gw>302.AI</Gw>",
+    "-10011": "Invalid request",
+    "-10012": "The free tool has reached the limit for this hour, please visit <Gw>302.AI</Gw> to create your own tool.",
+    "-1024": "AI interface connection timeout, please try again later or contact <Gw>302.AI</Gw>",
+    "default": "Unknown error, for more information, please visit <Gw>302.AI</Gw>.",
+    "retry_error": "Processing failed, retrying attempt {{times}}"
+  }
+}

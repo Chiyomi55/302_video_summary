@@ -1,0 +1,120 @@
+{
+  "about": {
+    "title": "について",
+    "trigger": {
+      "label": "ツール情報のポップアップを開く/閉じる"
+    }
+  },
+  "chatbox": {
+    "error_getting_response": "AIが問題を抱えているようです。再試行してください！",
+    "error_prefix": "エラー：",
+    "loading_indicator": "AIが思考中です...",
+    "message_input_placeholder": "質問を入力してください",
+    "welcome_message": "こんにちは、私は302AIアシスタントです。何でも質問してください。"
+  },
+  "error_page": {
+    "reload": "再読み込み",
+    "title": "予期しないエラーが発生しました"
+  },
+  "footer": {
+    "copyright_content": "<LogoLink></LogoLink> によって提供されています",
+    "copyright_leading": "コンテンツはAIによって生成されています。参考用のみです"
+  },
+  "md_renderer": {
+    "collapse": "閉じる",
+    "download_as_markdown": "Markdownをダウンロード",
+    "download_as_text": "TXTをダウンロード",
+    "enter_fullscreen": "全画面表示",
+    "exit_fullscreen": "全画面終了",
+    "expand": "展開",
+    "regenerate": "再生成"
+  },
+  "mind_map": {
+    "collapse": "閉じる",
+    "download_as_jpeg": "JPEGをダウンロード",
+    "download_as_png": "PNGをダウンロード",
+    "download_as_svg": "SVGをダウンロード",
+    "enter_fullscreen": "全画面モードに移行",
+    "exit_fullscreen": "全画面モードを終了",
+    "expand": "展開"
+  },
+  "no_content": {
+    "title": "コンテンツなし"
+  },
+  "player": {
+    "accessibility": "アクセシビリティ",
+    "airplay": "AirPlay",
+    "announcements": "お知らせ",
+    "audio": "オーディオ",
+    "auto": "自動",
+    "boost": "拡張",
+    "caption_styles": "字幕スタイル",
+    "captions": "字幕 (zh) -> 字幕 (ja)\n\nThe translation remains the same since \"字幕\" is written identically in both Chinese and Japanese.",
+    "captions_look_like_this": "字幕例",
+    "chapters": "チャプター",
+    "closed-captions_off": "字幕オフ",
+    "closed-captions_on": "字幕オン",
+    "color": "カラー",
+    "connected": "接続済み",
+    "connecting": "接続中",
+    "continue": "続行",
+    "default": "デフォルト",
+    "disabled": "無効",
+    "disconnected": "未接続",
+    "display_background": "背景を表示",
+    "download": "ダウンロード",
+    "enter_fullscreen": "全画面",
+    "enter_pip": "ピクチャ・イン・ピクチャ終了",
+    "exit_fullscreen": "全画面終了",
+    "exit_pip": "ピクチャーインピクチャーを終了",
+    "family": "フォントファミリー",
+    "font": "フォント",
+    "fullscreen": "全画面モード",
+    "google_cast": "Google Cast",
+    "keyboard_animations": "キーボードアニメーション",
+    "live": "ライブ",
+    "loop": "ループ",
+    "mute": "ミュート",
+    "normal": "通常",
+    "off": "オフ",
+    "opacity": "不透明度",
+    "pause": "一時停止",
+    "pip": "ピクチャ・イン・ピクチャ",
+    "play": "再生",
+    "playback": "再生",
+    "quality": "クオリティ",
+    "replay": "リプレイ",
+    "reset": "リセット",
+    "seek": "ジャンプ",
+    "seek_backward": "戻る",
+    "seek_forward": "早送り",
+    "settings": "設定",
+    "shadow": "シャドウ",
+    "size": "サイズ",
+    "skip_to_live": "ライブへジャンプ",
+    "speed": "速度",
+    "text": "テキスト",
+    "text_background": "テキスト背景",
+    "track": "トラック",
+    "unmute": "ミュート解除",
+    "volume": "音量"
+  },
+  "share": {
+    "error": "作成に失敗しました、後で再試行してください",
+    "noBriefError": "現在のところ短い要約はありません、まず要約をしてください。",
+    "noDetailError": "詳細なまとめはまだありません。先に要約してください。",
+    "noVideoError": "ビデオはありません、先にリンクを入力してください。",
+    "success": "共有成功、共有リンクをコピーしました",
+    "successIframe": "共有成功、手動でコピーしてください",
+    "trigger": {
+      "label": "シェアリンクのオン/オフ"
+    }
+  },
+  "switch_language": "言語を切り替える",
+  "switch_theme": {
+    "dark": "夜間モード",
+    "light": "日間モード",
+    "system": "システムに従う",
+    "toggle_theme": "テーマ切替"
+  }
+}
