@@ -2,6 +2,7 @@
 import { Footer } from '@/app/components/footer'
 import { useTranslation } from '@/app/i18n/client'
 import { transcript } from '@/lib/api/transcript'
+import { showBrand } from '@/lib/brand'
 import { save } from '@/lib/db'
 import { logger } from '@/lib/logger'
 import { cn } from '@/lib/utils'
@@ -277,7 +278,8 @@ export default function Home({
       >
         <Main height={mainHeight} />
       </main>
-      <Footer className={cn('mb-4')} ref={footerRef} />
+      {!showBrand && <footer ref={footerRef} />}
+      {showBrand && <Footer className={cn('mb-4')} ref={footerRef} />}
     </div>
   )
 }

@@ -7,6 +7,7 @@ import {
   useVideoInfoStore,
   VideoInfoState,
 } from '@/app/stores/use-video-info-store'
+import { showBrand } from '@/lib/brand'
 import { cn } from '@/lib/utils'
 import ky from 'ky'
 import { useParams } from 'next/navigation'
@@ -106,7 +107,8 @@ export default function Share({
       >
         <Main height={mainHeight} />
       </main>
-      <Footer className={cn('mb-4')} ref={footerRef} />
+      {!showBrand && <footer ref={footerRef} />}
+      {showBrand && <Footer className={cn('mb-4')} ref={footerRef} />}
     </div>
   )
 }

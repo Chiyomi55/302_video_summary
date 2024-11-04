@@ -1,5 +1,6 @@
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
+import { showBrand } from '@/lib/brand'
 import { logger } from '@/lib/logger'
 import { detectUrl, isValidUrl } from '@/lib/url'
 import { cn } from '@/lib/utils'
@@ -93,7 +94,7 @@ const Header = forwardRef<HTMLDivElement, Props>(
         ref={ref}
       >
         <div className='flex items-center space-x-4'>
-          <LogoIcon className='size-8 flex-shrink-0' />
+          {showBrand && <LogoIcon className='size-8 flex-shrink-0' />}
           <h1 className='break-all text-3xl font-bold leading-tight tracking-tighter transition-all sm:text-4xl lg:leading-[1.1]'>
             {t('home:header.title')}
           </h1>
